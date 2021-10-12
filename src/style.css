@@ -50,4 +50,13 @@ input {
 .middleImages {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-gap: 0px 20px;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+img {
+    height: 200px;
+    width: 100%;
 }
