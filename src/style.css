@@ -79,6 +79,14 @@ input {
 
 footer {
     background-color: whitesmoke;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 180px;
+    margin-left: 20%;
+    margin-right: 20%; */
+}
+.footerContainer {
+    
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin-top: 180px;
