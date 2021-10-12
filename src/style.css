@@ -60,3 +60,8 @@ img {
     height: 200px;
     width: 100%;
 }
+
+.scrollImages {
+    overflow: auto;
+    white-space: nowrap;
+}
