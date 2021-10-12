@@ -48,8 +48,9 @@ input {
 }
 .splitter {
     border-bottom: slategray 1px dashed ;
-    width: 20%;
+    width: 13%;
     margin-top: 50px;
+    margin-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -67,7 +68,10 @@ input {
     width: 100%;
     border-radius: 5px;
 }
-
+a {
+    color: rgb(77, 155, 219);
+    text-decoration: none;
+}
 .scrollImages {
     overflow: auto;
     white-space: nowrap;
