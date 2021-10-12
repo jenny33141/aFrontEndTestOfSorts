@@ -40,3 +40,10 @@ input {
     border: solid 1px green;
     color: white;
 }
+.splitter {
+    border-bottom: slategray 1px dashed ;
+    width: 20%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
