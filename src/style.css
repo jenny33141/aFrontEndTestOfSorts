@@ -17,12 +17,14 @@ body {
 
 .formWrapper {
     text-align: center;
+    margin-top: 40px;
 
 }
 .form {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px 20px;
+    margin-top: 20px;
     margin-left: 20%;
     margin-right: 20%;
 }
