@@ -18,6 +18,7 @@ body {
 .formWrapper {
     text-align: center;
     margin-top: 40px;
+   
 
 }
 .form {
@@ -32,7 +33,8 @@ body {
 input {
     height: 30px;
     border-radius: 5px;
-    border: solid 1px rgb(216, 210, 210);;
+    border: solid 1px rgb(216, 210, 210);
+    padding: 5px 10px;
     
 }
 
