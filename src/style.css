@@ -68,6 +68,10 @@ input {
     width: 100%;
     border-radius: 5px;
 }
+h4 {
+    margin-bottom: -5px;
+}
+
 a {
     color: rgb(77, 155, 219);
     text-decoration: none;
