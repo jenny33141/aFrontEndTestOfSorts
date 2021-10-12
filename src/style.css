@@ -115,3 +115,9 @@ width: 30px;
 ul {
     list-style: none;
 }
+
+@media (max-width:700px) {
+    .form {
+        grid-template-columns: 1fr;
+    }
+}
