@@ -57,8 +57,9 @@ input {
 }
 
 .middleImages img {
-    height: 200px;
+    height: 160px;
     width: 100%;
+    border-radius: 5px;
 }
 
 .scrollImages {
@@ -67,9 +68,11 @@ input {
     margin-top: 20px;
     margin-left: 20%;
     margin-right: 20%;
+   
 
 }
 .scrollImages img {
     height: 150px;
     margin-right: 10px;
+    border-radius: 5px;
 }
