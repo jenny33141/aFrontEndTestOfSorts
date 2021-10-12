@@ -56,7 +56,7 @@ input {
     margin-right: 20%;
 }
 
-img {
+.middleImages img {
     height: 200px;
     width: 100%;
 }
@@ -64,4 +64,12 @@ img {
 .scrollImages {
     overflow: auto;
     white-space: nowrap;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+.scrollImages img {
+    height: 150px;
+    margin-right: 10px;
 }
